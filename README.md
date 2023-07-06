@@ -33,3 +33,25 @@ The ttk.Treeview widget is used to display the expense records in a tabular form
 The heading() method is used to set column headings, and the column() method is used to define column widths.
 Scrollbars are added to the tree view for horizontal and vertical scrolling.
 Please note that the provided code snippet is just a part of the entire application, and any missing code should be added accordingly for the complete functionality.
+
+
+<div align="center">
+  <img src="https://github.com/AK1003018/expense-tracker/blob/main/exp1.png">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/AK1003018/expense-tracker/blob/main/exp2.png">
+</div>
+ <br>
+
+ <div align="center">
+  <img src="https://github.com/AK1003018/expense-tracker/blob/main/exp3.png">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/AK1003018/expense-tracker/blob/main/exp4.png">
+</div>
